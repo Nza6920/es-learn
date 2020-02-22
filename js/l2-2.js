@@ -17,14 +17,14 @@ const arr = [1,2,3,4,5]
 // })
 
 
-// arr.a = 9
-// for (let index in arr) {
-//   console.log(index, arr[index])
-// }
+arr.a = 9
+for (let index in arr) {
+  console.log(index, arr[index])
+}
 
-// for (let item of arr) {
-//   console.log(item)
-// }
+for (let item of arr) {
+  console.log(item)
+}
 
 const Price = {
   A: [1.5, 2.3, 4.5],
