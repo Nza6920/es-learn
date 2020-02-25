@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28c8e0a7-9258-491c-adc7-fb286c13e7a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/l2-4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/l2-3" beforeDir="false" afterPath="$PROJECT_DIR$/js/l2-3.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,7 +30,7 @@
           <entry key="css" value="1" />
           <entry key="ejs" value="4" />
           <entry key="jpg" value="1" />
-          <entry key="js" value="18" />
+          <entry key="js" value="21" />
           <entry key="l2-3" value="1" />
           <entry key="png" value="2" />
         </counts>
@@ -40,7 +40,7 @@
           <entry key="CSS" value="1" />
           <entry key="EJS" value="4" />
           <entry key="Image" value="3" />
-          <entry key="JavaScript" value="19" />
+          <entry key="JavaScript" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -51,24 +51,54 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ejs" value="52" />
-          <entry key="js" value="3090" />
+          <entry key="js" value="3715" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="EJS" value="52" />
-          <entry key="JavaScript" value="3090" />
+          <entry key="JavaScript" value="3715" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/l2-3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="142" column="3" lean-forward="true" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="3" />
+            <state relative-caret-position="1957">
+              <caret line="130" column="20" lean-forward="true" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/l2-4.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="802">
+              <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/l2-2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="39" column="22" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -87,8 +117,9 @@
         <option value="$PROJECT_DIR$/static/l2-1.js" />
         <option value="$PROJECT_DIR$/static/l2-2.js" />
         <option value="$PROJECT_DIR$/js/l2-2.js" />
-        <option value="$PROJECT_DIR$/js/index.js" />
         <option value="$PROJECT_DIR$/js/l2-3.js" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/js/l2-4.js" />
       </list>
     </option>
   </component>
@@ -148,10 +179,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\js\Code\my-es\static" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\js\Code\my-es\js" />
       <recent name="F:\js\Code\my-es\static" />
     </key>
   </component>
@@ -178,12 +210,12 @@
       <option name="presentableId" value="Default" />
       <updated>1582360331547</updated>
       <workItem from="1582360337727" duration="9471000" />
-      <workItem from="1582613137699" duration="8088000" />
+      <workItem from="1582613137699" duration="9690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17559000" />
+    <option name="totallyTimeSpent" value="19161000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
@@ -282,8 +314,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/l2-2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="145">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -296,8 +328,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/l2-3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="142" column="3" lean-forward="true" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="3" />
+        <state relative-caret-position="1957">
+          <caret line="130" column="20" lean-forward="true" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/l2-4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
