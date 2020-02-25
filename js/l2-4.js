@@ -46,11 +46,34 @@
 
 
 // es5
-function sum (x = 1, y = 2, z = 3) {
-  return x + y + z;
-}
-let data = [4, 5, 7]
+// function sum (x = 1, y = 2, z = 3) {
+//   return x + y + z;
+// }
+// let data = [4, 5, 7]
 // console.log(sum.apply(this, data))
 
 // es6
-console.log(sum(...data))
+// console.log(sum(...data))
+
+// 箭头函数(es6)
+// let hello = (name) => {
+//   console.log('箭头函数' + name)
+// }
+// let hello2 = name => {
+//   console.log('箭头函数2' + name)
+// }
+// hello('nza')
+// hello2('nza2')
+
+// let sum = (x, y, z) => ({data: x + y + z})
+// console.log(sum(1, 2, 3))
+
+
+// es6 this谁定义的指向谁 es5 this谁调用的指向谁
+let test = {
+  name: 'test',
+  say: () => {
+    console.log(this.name, this)
+  }
+}
+test.say()
