@@ -2,7 +2,7 @@ import Router from 'koa-router'
 
 const router = new Router()
 
-router.prefix('/users')
+router.prefix('/')
 
 router.get('/', async ctx => {
   await ctx.render('index')
